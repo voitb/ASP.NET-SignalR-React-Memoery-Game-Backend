@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
-using System.Threading.Tasks;
 
 [ApiController]
 [Route("api/[controller]")]
@@ -13,7 +12,6 @@ public class GameController : ControllerBase
     {
         _gameHubContext = gameHubContext;
         _gameService = gameService;
-        //_gameService.gameBoard = _gameService.GenerateGameBoard();
     }
 
     [HttpGet("start")]

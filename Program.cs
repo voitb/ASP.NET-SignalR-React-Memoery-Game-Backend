@@ -21,7 +21,6 @@ builder.Services.AddCors(options =>
 // Add SignalR services
 builder.Services.AddSignalR();
 builder.Services.AddControllers();
-builder.Services.AddSignalR(); // Dodaj usługę SignalR
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddSingleton<IGameService, GameService>();
@@ -34,7 +33,6 @@ builder.Services.AddSwaggerGen(c =>
 
 var app = builder.Build();
 
-// app.MapHub<GameHub>("/gamehub"); // Map SignalR hub
 
 if (app.Environment.IsDevelopment())
 {

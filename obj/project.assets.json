@@ -698,11 +698,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\VS Code\\Studies\\SignalR\\Memory\\backend\\backend.csproj",
+      "projectUniqueName": "C:\\VS Code\\Studies\\ASP.NET SignalR React\\backend\\backend.csproj",
       "projectName": "backend",
-      "projectPath": "C:\\VS Code\\Studies\\SignalR\\Memory\\backend\\backend.csproj",
+      "projectPath": "C:\\VS Code\\Studies\\ASP.NET SignalR React\\backend\\backend.csproj",
       "packagesPath": "C:\\Users\\barto\\.nuget\\packages\\",
-      "outputPath": "C:\\VS Code\\Studies\\SignalR\\Memory\\backend\\obj\\",
+      "outputPath": "C:\\VS Code\\Studies\\ASP.NET SignalR React\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

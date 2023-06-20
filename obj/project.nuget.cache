@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sgzeOlHMJjvVKYvejC6KqbWyUJUirKa3K/3vj3ACJ7Hjt21ov0J/5V/L+5P+DSLSNLExt7i3sJaZ6mxHmNFsAg==",
+  "dgSpecHash": "schP2/jxZTQqhIX9Z7j0eOgdBlgV7ieFbHu1oYHN4oQi95WACxkcHdIkxwv5gcSwrHgJVotCEjnveePjaKA3lg==",
   "success": true,
-  "projectFilePath": "C:\\VS Code\\Studies\\SignalR\\Memory\\backend\\backend.csproj",
+  "projectFilePath": "C:\\VS Code\\Studies\\ASP.NET SignalR React\\backend\\backend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\barto\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\7.0.5\\microsoft.aspnetcore.jsonpatch.7.0.5.nupkg.sha512",
     "C:\\Users\\barto\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\7.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.7.0.5.nupkg.sha512",
